@@ -35,9 +35,9 @@ app_ui <- function(request) {
                           content = HTML(
                             "本软件有网页版和本地版，网页版不能提供长久服务，建议您安装本地版，有以下两种方式：",
                             "<br>",
-                            "1）如果您习惯于使用R环境，请下载本软件对应的R包<a href='http://8.130.92.72:9000/app' target='_top'>点击此处</a>",
+                            "1）如果您习惯于使用R环境，请下载本软件对应的R包<a href='https://github.com/zhaojhweb/OmicsPlot/' target='_top'>点击此处</a>",
                             "<br>",
-                            "2）如果您想免于R的安装过程，请下载本软件对应的docker镜像<a href='http://8.130.92.72:9000/app' target='_top'>点击此处</a>"
+                            "2）如果您想免于R的安装过程，请下载本软件对应的docker镜像<a href='https://github.com/zhaojhweb/OmicsPlot/' target='_top'>点击此处</a>"
                           )
                         ))
                ),
