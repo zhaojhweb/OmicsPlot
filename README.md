@@ -1,5 +1,5 @@
 h4(# OmicsPlot)
-#how to install?
+h3(#how to install?)
 devtools::install_github("zhaojhweb/OmicsPlot")
 #how to use？
 library(OmicsPlot)
